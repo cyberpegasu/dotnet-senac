@@ -1,0 +1,14 @@
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\bin\Debug\net8.0\laçosDeRepeticao.exe
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\bin\Debug\net8.0\laçosDeRepeticao.deps.json
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\bin\Debug\net8.0\laçosDeRepeticao.runtimeconfig.json
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\bin\Debug\net8.0\laçosDeRepeticao.dll
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\bin\Debug\net8.0\laçosDeRepeticao.pdb
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\obj\Debug\net8.0\laçosDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\obj\Debug\net8.0\laçosDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\obj\Debug\net8.0\laçosDeRepeticao.AssemblyInfo.cs
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\obj\Debug\net8.0\laçosDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\obj\Debug\net8.0\laçosDeRepeticao.dll
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\obj\Debug\net8.0\refint\laçosDeRepeticao.dll
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\obj\Debug\net8.0\laçosDeRepeticao.pdb
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\obj\Debug\net8.0\laçosDeRepeticao.genruntimeconfig.cache
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\laçosDeRepeticao\obj\Debug\net8.0\ref\laçosDeRepeticao.dll

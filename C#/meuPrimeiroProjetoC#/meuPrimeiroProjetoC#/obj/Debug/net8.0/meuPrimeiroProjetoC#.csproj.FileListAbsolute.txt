@@ -1,0 +1,14 @@
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\bin\Debug\net8.0\meuPrimeiroProjetoC#.exe
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\bin\Debug\net8.0\meuPrimeiroProjetoC#.deps.json
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\bin\Debug\net8.0\meuPrimeiroProjetoC#.runtimeconfig.json
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\bin\Debug\net8.0\meuPrimeiroProjetoC#.dll
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\bin\Debug\net8.0\meuPrimeiroProjetoC#.pdb
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\obj\Debug\net8.0\meuPrimeiroProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\obj\Debug\net8.0\meuPrimeiroProjetoC#.AssemblyInfoInputs.cache
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\obj\Debug\net8.0\meuPrimeiroProjetoC#.AssemblyInfo.cs
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\obj\Debug\net8.0\meuPrimeiroProjetoC#.csproj.CoreCompileInputs.cache
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\obj\Debug\net8.0\meuPrimeiroProjetoC#.dll
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\obj\Debug\net8.0\refint\meuPrimeiroProjetoC#.dll
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\obj\Debug\net8.0\meuPrimeiroProjetoC#.pdb
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\obj\Debug\net8.0\meuPrimeiroProjetoC#.genruntimeconfig.cache
+C:\Users\VITORMARTINSDEOLIVEI\Desktop\C#\meuPrimeiroProjetoC#\meuPrimeiroProjetoC#\obj\Debug\net8.0\ref\meuPrimeiroProjetoC#.dll

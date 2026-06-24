@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VITORMARTINSDEOLIVEI\\Desktop\\C#\\meuPrimeiroProjetoC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39B2B801-9482-46E7-941D-3FDD9FDE3344}|meuPrimeiroProjetoC#\\meuPrimeiroProjetoC#.csproj|c:\\users\\vitormartinsdeolivei\\desktop\\c#\\meuprimeiroprojetoc#\\meuprimeiroprojetoc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B2B801-9482-46E7-941D-3FDD9FDE3344}|meuPrimeiroProjetoC#\\meuPrimeiroProjetoC#.csproj|solutionrelative:meuprimeiroprojetoc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VITORMARTINSDEOLIVEI\\Desktop\\C#\\meuPrimeiroProjetoC#\\meuPrimeiroProjetoC#\\Program.cs",
+              "RelativeDocumentMoniker": "meuPrimeiroProjetoC#\\Program.cs",
+              "ToolTip": "C:\\Users\\VITORMARTINSDEOLIVEI\\Desktop\\C#\\meuPrimeiroProjetoC#\\meuPrimeiroProjetoC#\\Program.cs",
+              "RelativeToolTip": "meuPrimeiroProjetoC#\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T22:44:26.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
